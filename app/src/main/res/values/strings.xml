@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Navigus Docs</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="back">Back</string>
+    <string name="sign_up">Sign up</string>
+    <string name="another_account">Another Account</string>
+    <string name="log_in">Log in</string>
+    <string name="password">Password</string>
+</resources>
