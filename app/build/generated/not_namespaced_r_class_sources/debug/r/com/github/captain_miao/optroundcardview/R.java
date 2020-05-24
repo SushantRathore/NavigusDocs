@@ -12,57 +12,57 @@ public final class R {
     public static final class attr {
         private attr() {}
 
-        public static final int optRoundCardBackgroundColor = 0x7f0200ee;
-        public static final int optRoundCardBottomEdges = 0x7f0200ef;
-        public static final int optRoundCardCornerRadius = 0x7f0200f0;
-        public static final int optRoundCardElevation = 0x7f0200f1;
-        public static final int optRoundCardLeftBottomCorner = 0x7f0200f2;
-        public static final int optRoundCardLeftEdges = 0x7f0200f3;
-        public static final int optRoundCardLeftTopCorner = 0x7f0200f4;
-        public static final int optRoundCardMaxElevation = 0x7f0200f5;
-        public static final int optRoundCardPreventCornerOverlap = 0x7f0200f6;
-        public static final int optRoundCardRightBottomCorner = 0x7f0200f7;
-        public static final int optRoundCardRightEdges = 0x7f0200f8;
-        public static final int optRoundCardRightTopCorner = 0x7f0200f9;
-        public static final int optRoundCardTopEdges = 0x7f0200fa;
-        public static final int optRoundCardUseCompatPadding = 0x7f0200fb;
-        public static final int optRoundContentPadding = 0x7f0200fc;
-        public static final int optRoundContentPaddingBottom = 0x7f0200fd;
-        public static final int optRoundContentPaddingLeft = 0x7f0200fe;
-        public static final int optRoundContentPaddingRight = 0x7f0200ff;
-        public static final int optRoundContentPaddingTop = 0x7f020100;
+        public static final int optRoundCardBackgroundColor = 0x7f0300fb;
+        public static final int optRoundCardBottomEdges = 0x7f0300fc;
+        public static final int optRoundCardCornerRadius = 0x7f0300fd;
+        public static final int optRoundCardElevation = 0x7f0300fe;
+        public static final int optRoundCardLeftBottomCorner = 0x7f0300ff;
+        public static final int optRoundCardLeftEdges = 0x7f030100;
+        public static final int optRoundCardLeftTopCorner = 0x7f030101;
+        public static final int optRoundCardMaxElevation = 0x7f030102;
+        public static final int optRoundCardPreventCornerOverlap = 0x7f030103;
+        public static final int optRoundCardRightBottomCorner = 0x7f030104;
+        public static final int optRoundCardRightEdges = 0x7f030105;
+        public static final int optRoundCardRightTopCorner = 0x7f030106;
+        public static final int optRoundCardTopEdges = 0x7f030107;
+        public static final int optRoundCardUseCompatPadding = 0x7f030108;
+        public static final int optRoundContentPadding = 0x7f030109;
+        public static final int optRoundContentPaddingBottom = 0x7f03010a;
+        public static final int optRoundContentPaddingLeft = 0x7f03010b;
+        public static final int optRoundContentPaddingRight = 0x7f03010c;
+        public static final int optRoundContentPaddingTop = 0x7f03010d;
     }
     public static final class color {
         private color() {}
 
-        public static final int opt_round_card_view_dark_background = 0x7f040041;
-        public static final int opt_round_card_view_light_background = 0x7f040042;
-        public static final int opt_round_card_view_shadow_end_color = 0x7f040043;
-        public static final int opt_round_card_view_shadow_start_color = 0x7f040044;
+        public static final int opt_round_card_view_dark_background = 0x7f05004d;
+        public static final int opt_round_card_view_light_background = 0x7f05004e;
+        public static final int opt_round_card_view_shadow_end_color = 0x7f05004f;
+        public static final int opt_round_card_view_shadow_start_color = 0x7f050050;
     }
     public static final class dimen {
         private dimen() {}
 
-        public static final int opt_round_card_view_compat_inset_shadow = 0x7f05006d;
-        public static final int opt_round_card_view_default_elevation = 0x7f05006e;
-        public static final int opt_round_card_view_default_radius = 0x7f05006f;
+        public static final int opt_round_card_view_compat_inset_shadow = 0x7f06006d;
+        public static final int opt_round_card_view_default_elevation = 0x7f06006e;
+        public static final int opt_round_card_view_default_radius = 0x7f06006f;
     }
     public static final class string {
         private string() {}
 
-        public static final int opt_round_card_view_name = 0x7f0c001f;
+        public static final int opt_round_card_view_name = 0x7f0e0038;
     }
     public static final class style {
         private style() {}
 
-        public static final int OptRoundCardView = 0x7f0d00a2;
-        public static final int OptRoundCardView_Dark = 0x7f0d00a3;
-        public static final int OptRoundCardView_Light = 0x7f0d00a4;
+        public static final int OptRoundCardView = 0x7f0f00a2;
+        public static final int OptRoundCardView_Dark = 0x7f0f00a3;
+        public static final int OptRoundCardView_Light = 0x7f0f00a4;
     }
     public static final class styleable {
         private styleable() {}
 
-        public static final int[] OptRoundCardView = { 0x7f0200ee, 0x7f0200ef, 0x7f0200f0, 0x7f0200f1, 0x7f0200f2, 0x7f0200f3, 0x7f0200f4, 0x7f0200f5, 0x7f0200f6, 0x7f0200f7, 0x7f0200f8, 0x7f0200f9, 0x7f0200fa, 0x7f0200fb, 0x7f0200fc, 0x7f0200fd, 0x7f0200fe, 0x7f0200ff, 0x7f020100 };
+        public static final int[] OptRoundCardView = { 0x7f0300fb, 0x7f0300fc, 0x7f0300fd, 0x7f0300fe, 0x7f0300ff, 0x7f030100, 0x7f030101, 0x7f030102, 0x7f030103, 0x7f030104, 0x7f030105, 0x7f030106, 0x7f030107, 0x7f030108, 0x7f030109, 0x7f03010a, 0x7f03010b, 0x7f03010c, 0x7f03010d };
         public static final int OptRoundCardView_optRoundCardBackgroundColor = 0;
         public static final int OptRoundCardView_optRoundCardBottomEdges = 1;
         public static final int OptRoundCardView_optRoundCardCornerRadius = 2;
