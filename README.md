@@ -21,5 +21,5 @@ It's an Android app that work somehow similar to google docs with added feature 
 ![WhatsApp Image 2020-05-25 at 11 07 09 PM (1)](https://user-images.githubusercontent.com/54972867/82834482-dd3e5700-9ede-11ea-92ec-6fe9ade2affd.jpeg)
 
 
-##Realtime data storage 
+## Realtime data storage 
 ![database](https://user-images.githubusercontent.com/54972867/82834842-eed42e80-9edf-11ea-91b0-b37d15f6e7fb.png)
