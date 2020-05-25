@@ -19,3 +19,6 @@ It's an Android app that work somehow similar to google docs with added feature 
 .
 ## List of Document created
 ![WhatsApp Image 2020-05-25 at 11 07 09 PM (1)](https://user-images.githubusercontent.com/54972867/82834482-dd3e5700-9ede-11ea-92ec-6fe9ade2affd.jpeg)
+
+
+##Realtime data storage 
